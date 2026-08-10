@@ -17,4 +17,4 @@ COMPANIES = {
 # who's making it (name/app + contact email). Requests without one, or with
 # a generic one, get blocked. Put your own details here before running
 # anything that hits data.sec.gov.
-USER_AGENT = "YourName-PortfolioProject your.email@example.com"
+USER_AGENT = "GarvRawat-PortfolioProject rawatgarv29@gmail.com"
