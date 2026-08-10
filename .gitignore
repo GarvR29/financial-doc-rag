@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+# Raw filings and XBRL facts are re-fetchable from EDGAR anytime — no
+# reason to bloat the repo with them. Keep the folder tracked (via
+# .gitkeep) but ignore its contents.
+data/raw/*
+!data/raw/.gitkeep
+
+.env
